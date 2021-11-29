@@ -1,1 +1,1 @@
-<img src="https://github.com/biswarup35/biswarup35/blob/main/img/github-header.jpg" />
+<h3 align="center"> 👋 Hi there, I'm Biswarup Bouri </h3>
