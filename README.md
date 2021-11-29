@@ -1,38 +1,36 @@
 <h3 align="center"> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Biswarup Bouri </h3>
 <hr />
- I'm a Frontend Developer from India, currenlty I'm practicing full-stack Software development.
+ <p align="center">I'm a Frontend Developer from India, currenlty practicing full-stack Software development. </p>
+
+ </div>
+ <div align="center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=biswarup35&show_icons=true&theme=algolia&custom_title=My+GitHub+Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswarup35&theme=algolia" />
+ </div>
+
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswarup35&layout=compact&hide=php,java&theme=algolia" />
+ 
+ </div>
 
 
 
 <div>
- <h3>Languages I know: </h3>
+ <h3>Things I Code with: </h3>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-<div>
- <h3>Databases I work with: </h3>
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" />
-</div>
-
-<div>
- <h3>ORM I know: </h3>
- <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
- 
- </div>
- 
-<div>
- <h3>Frameworks I work with: </h3>
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
- </div>
+</div>
  
  
  <div align="center">
