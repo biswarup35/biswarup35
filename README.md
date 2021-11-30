@@ -68,14 +68,9 @@
   </td>
  </tr>
  </table>
- 
-<br />
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswarup35&layout=compact&hide=php,java&theme=algolia" />
- </div>
- 
+  
  <div align="center">
- <h3>Connect me on </h3>
+ <h2>👋 Connect me on </h2>
  	<a href="https://twitter.com/BiswarupBouri"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
  <a href="https://twitter.com/BiswarupBouri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
  </div>
