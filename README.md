@@ -1,6 +1,8 @@
 <h3 align="center"> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Biswarup Bouri </h3>
 <hr />
- <p align="center">I'm a Frontend Developer from India, currenlty practicing full-stack Software development. </p>
+ <p>I'm a Frontend Developer from India, currenlty learning full-stack software development. I am passionate about Web Technologies. Especially, I love React, it helps me to build up UI quickly as well as efficiently. In most cases, I use React with Next.js for better performance and highly optimised Web Applications.</p>
+ <p> In my free time, I share my experiences through blogging and social media networks. Apart from these, I love to travel around my favourite places and watching movies. </p>
+ 
 
  </div>
  <div align="center">
@@ -10,7 +12,6 @@
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswarup35&layout=compact&hide=php,java&theme=algolia" />
- 
  </div>
 
 
