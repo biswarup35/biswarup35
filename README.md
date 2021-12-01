@@ -1,22 +1,20 @@
 <h2 align="center"> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Biswarup Bouri </h2>
- <p>I'm a Frontend Developer from India, currenlty learning full-stack software development. I am passionate about Web Technologies. Especially, I love React, it helps me to build-up UI quickly as well as efficiently. In most cases, I use React with Next.js for better performance and highly optimised Web Applications.</p>
+ <p>I'm a <b>Frontend Developer</b> from India, currenlty learning full-stack software development. I am passionate about Web Technologies. Especially, I love <b>React</b>, it helps me to build-up UI quickly as well as efficiently. In most cases, I use <b>React</b> with <b>Next.js</b> for better performance and highly optimized Web Applications.</p>
  <p> In my free time, I share my experiences through blogging and social media networks. Apart from these, I love to travel around my favourite places and watching movies. </p>
  
 
- <h2>My GitHub Stats </h2>
- <table>
+ <h2>📈 My GitHub Stats </h2>
+ <table align="center">
  <tr>
   <th>
-   <img  src="https://github-readme-stats.vercel.app/api?username=biswarup35&show_icons=true&theme=algolia&custom_title=&hide_border=true" />
-  </th>
-  <th>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswarup35&theme=algolia&hide_border=true" />
+   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=biswarup35&show_icons=true&theme=algolia&custom_title=&hide_border=true" />
+   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=biswarup35&theme=algolia&hide_border=true" />
   </th>
  </tr>
  </table>
 
 
- <h2>My Tech Stack </h2>
+ <h2>🗃 My Tech Stack </h2>
  <table align="center">
  <tr>
   <td>👩‍💻 Languages </td>
@@ -34,8 +32,6 @@
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </td>
  </tr>
   <tr>
@@ -47,7 +43,14 @@
   </td>
  </tr>
   <tr>
-   <td>🧪 Testing </td>
+   <td>📑 Version control </td>
+  <td> 
+     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </td>
+ </tr>
+  <tr>
+   <td>👨‍🔬 Testing </td>
   <td> 
    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   </td>
@@ -74,4 +77,5 @@
  	<a href="https://twitter.com/BiswarupBouri"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
  <a href="https://twitter.com/BiswarupBouri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
  </div>
+ 
  
