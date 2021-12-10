@@ -1,4 +1,6 @@
-<h2 align="center"> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Biswarup Bouri </h2>
+<h2>👨‍💻 Me</h2>
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=biswarup35.biswarup35" />
+<img  src="/header-card.png"/>
  <p>I'm a <b>Frontend Developer</b> from India, currenlty learning full-stack software development. I am passionate about Web Technologies. Especially, I love <b>React</b>, it helps me to build-up UI quickly as well as efficiently. In most cases, I use <b>React</b> with <b>Next.js</b> for better performance and highly optimized Web Applications.</p>
  <p> In my free time, I share my experiences through blogging and social media networks. Apart from these, I love to travel around my favourite places and watching movies. </p>
  
@@ -15,7 +17,7 @@
 
 
  <h2>🗃 My Tech Stack </h2>
- <table align="center">
+ <table>
  <tr>
   <td>👩‍💻 Languages </td>
   <td> 
@@ -75,7 +77,8 @@
  <div align="center">
  <h2>👋 Connect me on </h2>
  	<a href="https://twitter.com/BiswarupBouri"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
- <a href="https://twitter.com/BiswarupBouri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+ <a href="https://www.linkedin.com/in/biswarup35/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+ <a href="https://www.showwcase.com/biswarup35"><img src="https://img.shields.io/badge/Showwcase-white?style=for-the-badge&labelColor=000000&logo=showwcase&logoColor=black" /> </a>
  </div>
  
  
