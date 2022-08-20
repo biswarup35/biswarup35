@@ -75,7 +75,7 @@
  </table>
   
  <div align="center">
- <h2>👋 Connect me on </h2>
+ <h2>👋 Connect with me on </h2>
  	<a href="https://twitter.com/BiswarupBouri"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
  <a href="https://www.linkedin.com/in/biswarup35/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
  <a href="https://www.showwcase.com/biswarup35"><img src="https://img.shields.io/badge/Showwcase-white?style=for-the-badge&labelColor=000000&logo=showwcase&logoColor=black" /> </a>
